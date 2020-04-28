@@ -8,4 +8,4 @@
 
 Obstacle course for new members of SFL!
 
-Please open the (Wiki)[https://github.com/Software-For-Love/obstacle-course/wiki] to access the challenges!
+Please open the [Wiki](https://github.com/Software-For-Love/obstacle-course/wiki) to access the challenges!
