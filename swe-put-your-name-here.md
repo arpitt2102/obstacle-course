@@ -1,3 +1,3 @@
 # Names of SWE
 
-* Faizaan Chishtie
+* Pierre Akladios
