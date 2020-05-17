@@ -1,5 +1,5 @@
 # Names of SWE
 
-* Faizaan Chishtie
+* Faizaan A Chishtie
 * Nutan Nimkar
 
