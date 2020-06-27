@@ -4,3 +4,4 @@
 * Faizaan A Chishtie
 * Nutan Nimkar
 * Shuyu Liu
+* Brian Kamau
