@@ -1,6 +1,8 @@
 # Names of SWE
 
 * Faizaan Chishtie
+* Satrajit Chatterjee
+* Nutan Nimkar
 * Avaneesh Madaram
 * Jean Loic Kandikandi
 * Pierre Akladios
