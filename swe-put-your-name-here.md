@@ -1,6 +1,7 @@
 # Names of SWE
 
 * Faizaan Chishtie
+* Avaneesh Madaram
 * Jean Loic Kandikandi
 * Pierre Akladios
 * Faizaan A Chishtie
