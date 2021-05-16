@@ -5,3 +5,4 @@
 * Nutan Nimkar
 * Soorya Saravanapavan
 * Shuyu Liu
+* Hrithik Shah
