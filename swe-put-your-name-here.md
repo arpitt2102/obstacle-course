@@ -1,6 +1,7 @@
 # Names of SWE
 
 * Faizaan Chishtie
+* Hrithik Shah
 * Satrajit Chatterjee
 * Nutan Nimkar
 * Avaneesh Madaram
