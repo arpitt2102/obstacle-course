@@ -1,6 +1,7 @@
 # Names of SWE
 
 * Faizaan Chishtie
+* Hrithik Shah
 * Satrajit Chatterjee
 * Nutan Nimkar
 * Avaneesh Madaram
@@ -11,4 +12,7 @@
 * Jodi Qiao
 * Soorya Saravanapavan
 * Shuyu Liu
+* Yash Oza
+* Yash Contractor
 * Adhish Maheswaran
+
