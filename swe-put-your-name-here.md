@@ -15,3 +15,5 @@
 * Yash Oza
 * Yash Contractor
 * Mahyar Gorji (Muffy)
+* Sakeena Adinoyi
+* Kush Bhagat
