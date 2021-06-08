@@ -18,3 +18,4 @@
 * Mahyar Gorji (Muffy)
 * Sakeena Adinoyi
 * Kush Bhagat
+* Harshit Manchanda
